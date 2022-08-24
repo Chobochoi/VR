@@ -148,6 +148,8 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 11400000, guid: 3ea7f74b4d8148143a5aff96a83ba7c9, type: 2}
   - {fileID: 0}
   - {fileID: 6665218919989489197, guid: 3847fe12005327d48a924a1d970df71e, type: 2}
@@ -172,6 +174,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.project.vr
+    Standalone: com.project.vr
   buildNumber:
     Standalone: 0
     iPhone: 0
